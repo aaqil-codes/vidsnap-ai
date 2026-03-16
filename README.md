@@ -51,3 +51,9 @@ python main.py
 ## Then open in browser
 http://127.0.0.1:5000
 
+
+# VidSnap AI
+
+![Demo](assets/demo/demo.png)
+
+AI-powered tool that generates short videos from images using ElevenLabs voice narration and FFmpeg automation.
