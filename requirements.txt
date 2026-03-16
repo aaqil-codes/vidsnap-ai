@@ -1,0 +1,6 @@
+elevenlabs
+moviepy
+ffmpeg-python
+pillow
+requests
+flask
