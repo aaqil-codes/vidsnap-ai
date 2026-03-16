@@ -1,0 +1,6 @@
+file 'user_uploads/b6bc01a2-1888-11f1-9ee4-833e420927e0/<_io.TextIOWrapper name='user_uploads\\b6bc01a2-1888-11f1-9ee4-833e420927e0\\input.txt' mode='a' encoding='cp1252'>'
+ duration 1
+file 'user_uploads/b6bc01a2-1888-11f1-9ee4-833e420927e0/luke.jpg'
+ duration 1
+file 'user_uploads/b6bc01a2-1888-11f1-9ee4-833e420927e0/darth_vader1.jpg'
+ duration 1
